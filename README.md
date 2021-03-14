@@ -6,9 +6,9 @@
 ---
 # Contents
 * data-science
-* Python
 * R
 * Statistics
 * Machine Learning
 * Scraping
 * API
+* Python-Application
