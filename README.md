@@ -2,8 +2,9 @@
 
 ## 
 - データサイエンスに関する書籍の要約スライド
-- Kaggle
-- data
+- 実装
+  - code
+  - data
 
 ---
 ## Contents
