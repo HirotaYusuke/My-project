@@ -34,22 +34,22 @@
   - How old is the patient.
 - 7　Neighbourhood(医療機関)
   - Where the appointment takes place.
-- 8 Scholarship(医療補助金を受け取っていたか否か)
+- 8　Scholarship(医療補助金を受け取っていたか否か)
   - True of False
-- 9 Hipertension
+- 9　Hipertension
   - True or False(高血圧か否か)
-- 10 Diabetes(糖尿病か否か)
+- 10　Diabetes(糖尿病か否か)
   - True or False
-- 11 Alcoholism(アルコール依存症か否か)
+- 11　Alcoholism(アルコール依存症か否か)
   - True or False
-- 12 Handcap(障がいを持っているか否か)
+- 12　Handcap(障がいを持っているか否か)
   - True or False
-- 13 SMS_received(SMSを受け取ったか否か)
+- 13　SMS_received(SMSを受け取ったか否か)
   - 1 or more messages sent to the patient.
-- 14 No-show(来診したか否か)
+- 14　No-show(来診したか否か)
   - True or False.
 
-8 Scholarship(奨学金)についての詳細は，[Wikipedia](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia)を参照
+Scholarship(医療補助金)についての詳細は，[Wikipedia](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia)を参照
 
 目的変数：No-show 
 ---
