@@ -52,6 +52,32 @@
 Scholarship(医療補助金)についての詳細は，[Wikipedia](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia)を参照
 
 目的変数：No-show 
+#### メタデータ
+Usage Information
+License
+
+CC BY-NC-SA 4.0
+Visibility
+
+Public
+Maintainers
+Dataset owner
+
+JoniHoppen
+Updates
+Expected update frequency
+
+Not specified
+Last updated
+
+2017-08-21
+Date created
+
+2017-02-08
+Current version
+
+Version 5
+
 ---
 
 
