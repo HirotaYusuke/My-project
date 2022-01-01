@@ -2,7 +2,7 @@
 
 ## 
 - データサイエンスに関する書籍の要約スライド
-- 実装
+- データ分析
   - code
   - data
 
@@ -15,5 +15,4 @@
 * LightGBM
 * Optuna
 * Scraping
-* API
-* Python-Application
+
