@@ -11,7 +11,7 @@
 * data-science
 * Statistics
 * Machine Learning
-* scilit-learn
+* scikit-learn
 * LightGBM
 * Optuna
 * Scraping
