@@ -1,14 +1,19 @@
 # My-project
 
-# 勉強用
-大学卒業までに身に着けたいスキル・知識
+## 
+- データサイエンスに関する書籍の要約スライド
+- 実装
+  - code
+  - data
 
 ---
-# Contents
+## Contents
 * data-science
-* R
 * Statistics
 * Machine Learning
+* scilit-learn
+* LightGBM
+* Optuna
 * Scraping
 * API
 * Python-Application
