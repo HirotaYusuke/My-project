@@ -11,15 +11,24 @@
 このような課題を解決するため，医療機関は予約制度・予約システムの見直し，改善をすることにした．キャンセル防止のため，「キャンセル待ち」機能を備えた予約システムを導入する．そこで，医療機関はキャンセル防止のための，どのような患者が当日に予約を急遽キャンセルする傾向にあるのかを分析することとなった．
 
 ---
+
+## 仮説
+
+「事前にSMSを受け取っていない患者は，診察日当日に連絡なく来ない」という仮説を検証する．
+
+
 ## データセット
+
 本分析は，Kaggleによって公開されている「[Medical Appointment No Shows](https://www.kaggle.com/joniarroba/noshowappointments)」というデータセットを使用する．
 
 ### データの概要
+
 110.527件の診療予約についてそれぞれ14変数がある．最も重要である変数は，患者が来診したか否か，という変数である．
 14変数 [PatientId, AppointmentID, Gender
 , DataMarcacaoConsulta, DataAgendamento, Age, Neighbourhood, Scholarship, Hipertension, Diabetes, Alcoholism, Handcap, SMS_received, No-show]
 
 #### データについて
+
 - 1  PatientId(患者ID)
   - Identification of a patient
 - 2　AppointmentID(予約ID)
@@ -51,8 +60,10 @@
 
 Scholarship(医療補助金)についての詳細は，[Wikipedia](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia)を参照
 
-目的変数：No-show 
+目的変数：No-show
+
 #### メタデータ
+
 Usage Information
 License
 
@@ -80,4 +91,8 @@ Version 5
 
 ---
 
+## 前処理
 
+- 欠損値なし．
+
+―――
