@@ -1,18 +1,33 @@
 # My-project
 
-## 
-- データサイエンスに関する書籍の要約スライド
-- データ分析
-  - code
-  - data
+このレポジトリの目的は，勉強した内容を整理することです．
+
+勉強した内容は以下の通りです．
+
+## Data-Science
+
+- スクレイピング
+- EDA・可視化
+- モデル構築(パイプラインクラス)・仮説検証
+- AutoML
+
+
+## my_slied
+
+データサイエンスに関する書籍の要約スライド
+
+* 機械学習を解釈する技術
+* データ解釈学
+
+
+## XAI
+
+機械学習を解釈する技術を読んで，実装したメソッド．
+
+- SHAP
+- PFI
+- ICE
+- data
+
 
 ---
-## Contents
-* data-science
-* Statistics
-* Machine Learning
-* scikit-learn
-* LightGBM
-* Optuna
-* Scraping
-
