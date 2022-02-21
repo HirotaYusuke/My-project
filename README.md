@@ -12,11 +12,20 @@
 - AutoML
 
 
-## my_slied
+## Medocal Appointment No Shows
+
+詳細はREADME.mdを参照．
+
+## SUMO_predict
+
+詳細はREADME.mdを参照．
+
+## my_slide
 
 データサイエンスに関する書籍の要約スライド
 
 * 機械学習を解釈する技術
+* 施策デザインのための機械学習入門
 * データ解釈学
 
 
@@ -26,8 +35,8 @@
 
 - SHAP
 - PFI
+- PD
 - ICE
-- data
 
 
 ---
