@@ -4,21 +4,29 @@
 
 勉強した内容は以下の通りです．
 
-## Data-Science
+## [Data-Science](https://github.com/bi18056/My-project/tree/main/Data-science)
+
+ライブラリの使い方について整理，実装した．
+
+詳細はData-Sciencの[README.md](https://github.com/bi18056/My-project/blob/main/Data-science/README.md)を参照．
 
 - スクレイピング
 - EDA・可視化
-- モデル構築(パイプラインクラス)・仮説検証
+- モデル構築(パイプラインクラス)
 - AutoML
+- モデル解釈
 
+## [Medocal Appointment No Shows](https://github.com/bi18056/My-project/tree/main/Medical%20Appointment%20No%20Shows)
 
-## Medocal Appointment No Shows
+実データを使った分類タスク．
 
-詳細はREADME.mdを参照．
+詳細はMedocal Appointment No Showsの[README.md](https://github.com/bi18056/My-project/blob/main/Medical%20Appointment%20No%20Shows/README.md)を参照．
 
-## SUMO_predict
+## [SUMO_predict](https://github.com/bi18056/My-project/tree/main/SUMO_predict)
 
-詳細はREADME.mdを参照．
+実データを使った回帰タスク．
+
+詳細はSUMO_predictの[README.md](https://github.com/bi18056/My-project/tree/main/SUMO_predict)を参照．
 
 ## my_slide
 
@@ -28,7 +36,6 @@
 * 施策デザインのための機械学習入門
 * データ解釈学
 
-
 ## XAI
 
 機械学習を解釈する技術を読んで，実装したメソッド．
@@ -37,6 +44,5 @@
 - PFI
 - PD
 - ICE
-
 
 ---

@@ -16,7 +16,6 @@
 
 「事前にSMSを受け取っていない患者は，診察日当日に連絡なく来ない」という仮説を検証する．
 
-
 ## データセット
 
 本分析は，Kaggleによって公開されている「[Medical Appointment No Shows](https://www.kaggle.com/joniarroba/noshowappointments)」というデータセットを使用する．
@@ -95,4 +94,6 @@ Version 5
 
 - 欠損値なし．
 
-―――
+## EDAの結果
+
+## 予測精度・モデル解釈
