@@ -1,10 +1,10 @@
 # Data Science
 
-このリポジトリの目的は，データサイエンスについて学んだ内容を整理することです．また，自身で問題を設定し，仮説検証を行いました．具体的には，PythonでスクレイピングやEDA，可視化を行う方法，パイプラインクラスやAutoML，その他ライブラリの実践的な使い方を整理，実装しました．
+このリポジトリの目的は，データサイエンスについて学んだ内容を整理することです．データ分析を行いながら，PythonでEDA，可視化を行う方法，パイプラインクラスやAutoML，その他ライブラリの実践的な使い方を整理，実装しました．また，データ収集に必要なスクレイピングを行うためのライブラリの使い方についても整理，実装しました．
+
+具体的には，回帰タスクと分類タスクを設定し，取り組みました．
 
 ---
-
-
 
 ## スクレイピング
 
@@ -23,29 +23,44 @@
 - Scikit-Learn（PipeLine）
 - LightGBM
 - Oputuna
+- XGBoost
 
 ## AutoML
 
 - Pycaret
 
+## モデル解釈
+
+- SHAP
+
 # 課題
 
 ## Bostonデータの予測・モデル構築
 
-データ：ボストンの住宅価格()
+データ：ボストンの住宅価格
 
-この課題の目的は，基本的なライブラリの使い方，評価指標について整理することです．
+この課題の目的は，回帰タスクを行う上で基本的なライブラリの使い方，評価指標について整理することです．
 
-## 住宅価格の予測
+- [lgbm_reg.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/lgbm_reg.ipynb)
+- [lgbm_oputuna_trainingapi.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/lgbm_oputuna_trainingapi.ipynb)
+- [pipeline1.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/pipeline1.ipynb)
+- [pipeline2.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/pipeline2.ipynb)
+- [pipeline3.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/pipeline3.ipynb)
 
-データ：スクレイピングしたデータ
+## Breast Cancerの分類・モデル構築
 
-仮説：
+データ：乳癌の検査結果
 
-検証結果：
+この課題の目的は，分類タスクを行う上で基本的なライブラリの使い方，評価指標について整理することです．
 
-この課題の目的は，実データを使って，Bostonデータで学んだことを活用して，より実践的な分析を行うことです．
+- [lgbm_classifier.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/lgbm_classifier.ipynb)
+- [xgboost_classfier.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/xgboost_classifier.ipynb)
 
+## 住宅価格データのスクレイピング
+
+分析するための実データを収集するため，ライブラリの使い方を整理したものです．データは，[SUMO](https://suumo.jp/chintai/tokyo/sc_shinjuku/?page=1)より，1ページ目から100ページ目まで，計8381件を収集しました．
+
+- [Sumo_scraping.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/Sumo_scraping.ipynb)
 
 # 環境
 
