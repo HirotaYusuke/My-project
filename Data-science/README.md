@@ -43,9 +43,11 @@
 
 - [lgbm_reg.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/lgbm_reg.ipynb)
 - [lgbm_oputuna_trainingapi.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/lgbm_oputuna_trainingapi.ipynb)
+- [xgboost_reg.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/xgboost_reg.ipynb)
 - [pipeline1.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/pipeline1.ipynb)
 - [pipeline2.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/pipeline2.ipynb)
 - [pipeline3.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/pipeline3.ipynb)
+- [pycaret_reg.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/pycaret_reg.ipynb)
 
 ## Breast Cancerの分類・モデル構築
 
@@ -53,8 +55,9 @@
 
 この課題の目的は，分類タスクを行う上で基本的なライブラリの使い方，評価指標について整理することです．
 
-- [lgbm_classifier.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/lgbm_classifier.ipynb)
-- [xgboost_classfier.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/xgboost_classifier.ipynb)
+- [lgbm_clf.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/lgbm_clf.ipynb)
+- [xgboost_clf.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/xgboost_clf.ipynb)
+- [pycaret_clf.ipynb](https://github.com/bi18056/My-project/blob/main/Data-science/pycaret_clf.ipynb)
 
 ## 住宅価格データのスクレイピング
 
